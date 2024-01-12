@@ -7,4 +7,4 @@ Based on "ha-dockermon" at https://github.com/philhawthorne/ha-dockermon
 
 ## 100 - Introduction
 
-```Home Assistant DockerMon``` is a NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
+```Home Assistant DockerMon``` is a NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers.
